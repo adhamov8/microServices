@@ -4,25 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a569d43-6dd6-49d5-bb92-bee251690c0e" name="Changes" comment="" />
+    <list default="true" id="a2edf395-1e7a-4200-ad7c-ab0dbec3cf46" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
+    <projectState path="$PROJECT_DIR$/AuthService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/OrderService">
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
-  <component name="ProjectId" id="2uvFT884htJu2SvEUJiYAH6O78g" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo">{
+    &quot;associatedIndex&quot;: 6
+    }</component>
+  <component name="ProjectId" id="2urGSOgxnxh837L8ErXqFPnOr9o" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +59,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/alibekadhamov/Desktop/Service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "tasks.servers",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -47,12 +80,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a569d43-6dd6-49d5-bb92-bee251690c0e" name="Changes" comment="" />
-      <created>1743121146300</created>
+      <changelist id="a2edf395-1e7a-4200-ad7c-ab0dbec3cf46" name="Changes" comment="" />
+      <created>1742999279739</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1743121146300</updated>
-      <workItem from="1743121147308" duration="1000" />
+      <updated>1742999279739</updated>
+      <workItem from="1742999281148" duration="1789000" />
+      <workItem from="1743118960443" duration="2152000" />
     </task>
     <servers />
   </component>
